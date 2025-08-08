@@ -195,22 +195,3 @@ New York City| GPE  | Countries, cities, states
 Google      | ORG  | Companies, agencies, institutions
 ```
 
-## 🤝 Contributing
-
-Feel free to contribute to this project by:
-1. Adding new NLP techniques
-2. Improving existing implementations
-3. Adding more machine learning projects
-4. Enhancing documentation
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 📞 Contact
-
-For questions or suggestions, please open an issue in the repository.
-
----
-
-**Note**: Make sure to run `download_nltk_data.py` first to download all required NLTK data before running other scripts.
